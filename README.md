@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leo-Youmbi
-- 👀 I’m interested in coding, martial arts, gamings
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding, martial arts, 🏀 
+- 🌱 I’m currently learning Python, c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Leoyoumbi83@gmail.com
 
