@@ -1,5 +1,5 @@
 # 💫 À propos de moi✌:
-✌私はレオ・ユンビです<br>🔭 I’m currently working on Backend development with Django<br>🌱 I’m currently learning Life<br>📫 How to reach me: Leoyoumbi83@gmail.com<br>⚡ Fun fact - I prefer watching anime over writing code :)<br>
+✌ 私はレオ・ユンビです<br>🔭 I’m currently working on Backend development with Django<br>🌱 I’m currently learning Life<br>📫 How to reach me: Leoyoumbi83@gmail.com<br>⚡ Fun fact - I prefer watching anime over writing code :)<br>
 
 
 ## 🌐 Socials:
