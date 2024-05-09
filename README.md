@@ -2,6 +2,8 @@
 ✌ 私はレオ・ユンビです<br>🔭 I’m currently working on Backend development with Django<br>🌱 I’m currently learning Life<br>📫 How to reach me: Leoyoumbi83@gmail.com<br>⚡ Fun fact - I prefer watching anime over writing code :)<br>
 
 
+[![wakatime](https://wakatime.com/badge/user/018ccaef-35ef-456f-b16f-3250a3be8721.svg)](https://wakatime.com/@018ccaef-35ef-456f-b16f-3250a3be8721)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youmbi.leo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yll0rd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yll0rd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yll0rd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yll0rd)
 
